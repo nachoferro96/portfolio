@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Ignacio Ferro",
+    "occupation": "Desarrollador Front-End",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "image": "IG_Sonny.png",
+    "bio": "Me llamo Ignacio, tengo 23 años. Soy desarrollador Front-end con algunos conocimientos de back-end",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "nachoferro96@gmail.com",
+    "phone": "11 2494-1212",
+    "address": {
+      "street": "gutenberg 3053",
+      "city": "Capital Federal",
+      "state": "Buenos Aires",
+      "zip": "1419"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "# ",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sonnysangha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Esta es mi sincera evaluacion sobre mis skills en las siguientes areas.",
+    "education": [
+      {
+        "school": "MindHub",
+        "degree": "Desarrollador Front-end",
+        "graduated": "Diciembre 2019",
+        "description": "Ganador de Beca otorgada por el gobierno de la Nacion. El curso estaba planteado de una manera en la que se aprendia mientras se trabajaba. Se simulaban situaciones de la vida cotidiana en un trabajo como desarrollador front end. Y a medida que se nos planteaban desafios es que ibamos aprendiendo y averiguando. El curso estaba dictado 100% en ingles lo cual lo hacian un poco mas desafiante pero a la vez valioso. En el curso se evaluaron lenguajes o librerias como Html, css, Javascript, git/github, Bootstrap, Vue.js, manejo de api y conceptos generales de Back end. El trabajo final concistio en una pagina sobre el congreso de los Estados Unidos y sus miembros del congreso. Este trabajo esta incluido dentro de mis proyectos en esta pagina. "
+      },
+      {
+        "school": "Insu",
+        "degree": "Bachiller informatico",
+        "graduated": "Diciembre 2014",
+        "description": "Secundario orientado a informatica(2010-2014). En esos 4 años aprendi restauracion de Hardware, armado de pcs, manejo de paquete office. Uso de photoshop(que luego de manera independiente y autodidacta perfeccione), Uso de Adobe Premiere entre otros programas"
+      },
+      {
+        "school": "Derecho UBA",
+        "degree": "Abogado",
+        "graduated": "NO FINALIZADO",
+        "description": "Hice tres años de la carrera de derecho. Tengo aprobadas 16 materias. Amo el derecho pero realmente me di cuenta que no quiero ejercerlo en este pais o por lo menos no quiero vivir de eso. Tal vez en algun momento termine la carrera por que disfrutaba mucho de estudiarla y rendirla. Pero en este momento tengo otras prioridades como seguir progresando en esto que tambien amo que es la programacion y que durante años aprendi de manera autodidacta."
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "icon": "images/react.png",
+        "name": "ReactJs",
+        "level": "55%"
+      },
+      {
+        "icon": "images/css.jpg",
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "icon": "images/git.jpg",
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "icon": "images/vue.png",
+        "name": "Vue.js",
+        "level": "55%"
+      },
+      {
+        "icon": "images/boots.png",
+        "name": "Bootstrap",
+        "level": "67%"
+      },
+      {
+        "icon": "images/js.jpg",
+        "name": "Javascript",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Clon de Amazon usando React js (Html, Css, ReactJS)",
+        "image": "Logo-Amazon.png",
+        "url": "https://remake-536cb.web.app/"
+      },
+      {
+        "title": "Netflix Style",
+        "category": "Info de peliculas estilo netflix (html, css, Vanilla javascipt, Vue.js)",
+        "image": "netflixstyle.png",
+        "url": "https://github.com/nachoferro96/movies"
+      },
+      {
+        "title": "United State Congres info",
+        "category": "Construida con Vue.js, vanilla javascipt, Bootstrap 4",
+        "image": "facebook-clone.png",
+        "url": "https://github.com/nachoferro96/Congreso-usa"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Busco nuevos desafios que me permitan progresar como desarrollador y continuar aprendiendo sobre esto que amo.",
+        "user": ""
+      },
+      {
+        "text": "Estoy buscando introducirme en el mundo laboral de la programacion para encontrar desafios que pongan a prueba mis conocimientos como programador front-end. Anhelo unirme a un equipo de trabajo y junto a ellos compartir conocimientos para conseguir objetivos comunes. ",
+        "user": ""
+      }
+    ]
+  }
+}
